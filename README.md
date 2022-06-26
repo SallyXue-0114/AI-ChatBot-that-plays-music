@@ -23,7 +23,7 @@ python bot.py
 1. This bot currently only support "Greetings" and "Goodbye" intents. However, you can go to intents.json and change the "patterns" and "responses" to phrases of your choice! Once the bot recognizes that the sentence you ask includes certain patterns, it would replies with the phrases in "responses".
 2. If you enter "songs", the bot would start the song searching service. Here's the commands:
 
-    !play : It would randomly choose a song from the videos you provided (in music.py line 16, currently I only include one song, but you can add     other songs you like!), and play that song in the voice channel. Note that you need to wait for the video to download.
+    !play : It would randomly choose a song from the videos you provided (in music.py line 16, currently I only include one song, but you can add     other songs you like! Make sure it is an youtube video link), and play that song in the voice channel. Note that you need to wait for the video to download.
 
     !pause : pause the song.
 
