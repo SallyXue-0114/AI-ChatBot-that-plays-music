@@ -136,5 +136,5 @@ class MyClient(discord.Client):
                await message.channel.send("I didn't get that. Can you explain or try again.".format(message))
 
 client = MyClient()
-client.run('OTgzODU5Njc3NTE3NDY3NjY5.GcZK0j.cA9hlR8N0uZRrjLMM8l0IVfnkP4DsmLBPtznlM')
+client.run('YOUR-DISCORD-TOKEN')
 
