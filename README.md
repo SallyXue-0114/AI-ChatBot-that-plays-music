@@ -1,6 +1,10 @@
 # AI-ChatBot-that-plays-music
 I would also call it an Idol Chatting Bot, because you can chat with your idol through this bot, and also listen to their songs! ✨
 
+# Video demo
+https://user-images.githubusercontent.com/92959551/196080518-3da35cb2-7d90-490e-b037-eb0a6300724d.mp4
+
+
 # Installation
 1. Make sure you have your Discord bot and get a token. You can follow this tutorial:
 
